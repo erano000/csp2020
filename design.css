@@ -1,16 +1,16 @@
 body{
     font-family: "Marker Felt", "Geneva", "Sans-serif";
-    color: black
+    color: #000000
     }
 h1 {
     font-size: 2em;
     text-align: center;
-    background-color: palegoldenrod;
+    background-color: #eee8aa;
     }
 ul {
     list-style-type: none;
     text-align: center;
-    background-color: gray;
+    background-color: #808080;
     font-size: 1.5em
     }
 .center {
